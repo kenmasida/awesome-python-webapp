@@ -1,2 +1,0 @@
-tyg add 
-tyg modify
