@@ -1,2 +1,3 @@
 tyg add 
 tyg modify
+diff current
